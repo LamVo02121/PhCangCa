@@ -1,0 +1,22 @@
+<div mat-dialog-title>
+    <h2>{{data ? 'Cập nhật hàng' : 'Thêm hàng thủy sản'}}</h2>
+</div>
+<form [formGroup]="addForm" (ngSubmit)="onFormSubmit()">
+    <div mat-dialog-content class="content">
+        <div class="row">
+            <mat-form-field appearance="outline">
+                <mat-label>Tên loại</mat-label>
+                <input matInput type="text" formControlName="tenLoai">
+            </mat-form-field>
+            <div appearance="outline">
+                <mat-label class="me-1">Hình ảnh</mat-label>
+                <input type="file" name="fileInput" (change)="uploadImg($event)" required>
+            </div>
+        </div>
+
+    </div>
+    <div mat-dialog-actions class="action">
+        <button mat-raised-button type="submit" color="primary">Lưu</button>
+        <button mat-raised-button type="button" [mat-dialog-close]="false">Cancel</button>
+    </div>
+</form>

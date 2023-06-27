@@ -1,0 +1,37 @@
+<div class="body"></div>
+<div class="container align-items-center">
+    <h2 class="text-center fs-3">Đăng nhập</h2>
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+        <div class="content">
+            <div class="row">
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-user me-2"></i>
+                        Tên đăng nhập / Email
+                    </mat-label>
+                    <input matInput type="text" formControlName="username">
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-key me-2"></i>
+                        Mật khẩu</mat-label>
+                    <input matInput type="password" formControlName="password">
+                </mat-form-field>
+            </div>
+    
+        </div>
+        <div class="d-grid gap-2 submit">
+            <button type="submit" class="btn">Đăng nhập</button>
+        </div>
+    </form>
+    <div class="forget text-center fs-6">
+        <button class="btn mb-3" routerLink="/">Quên mật khẩu?</button>
+        <p class="mb-3">Hoặc</p>
+        <button class="btn" routerLink="/registry">Đăng ký</button>
+    </div>
+</div> 
+
+               
+
+                <!-- <button mat-raised-button type="submit" color="primary">Đăng nhập</button>
+            <button mat-raised-button type="reset" [mat-dialog-close]="false">Reset</button> -->

@@ -1,0 +1,1369 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Cang.0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.30956663,
+                    20.81417548
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 1,
+                "f_code": "HC04",
+                "Ten_Cang": "Bích Hà",
+                "Loai": "Cảng Nội Thủy",
+                "description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.30956663,
+                20.81417548,
+                105.30956663,
+                20.81417548
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.89810202,
+                    20.96959812
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 2,
+                "f_code": "HC04",
+                "Ten_Cang": "Khuyến Lương",
+                "Loai": "Cảng Nội Thủy",
+                "description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.89810202,
+                20.96959812,
+                105.89810202,
+                20.96959812
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.33883766,
+                    20.86624398
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 3,
+                "f_code": "HC04",
+                "Ten_Cang": "Hòa Bình",
+                "Loai": "Cảng Nội Thủy",
+                "description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.33883766,
+                20.86624398,
+                105.33883766,
+                20.86624398
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.78441103,
+                    19.41836061
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 4,
+                "f_code": "HC03",
+                "Ten_Cang": "Nghi Sơn",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.78441103,
+                19.41836061,
+                105.78441103,
+                19.41836061
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.91264382,
+                    19.78559641
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 5,
+                "f_code": "HC03",
+                "Ten_Cang": "Hoàng Long",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.91264382,
+                19.78559641,
+                105.91264382,
+                19.78559641
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.57723502,
+                    20.5619562
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 6,
+                "f_code": "HC03",
+                "Ten_Cang": "Diêm Điền",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.57723502,
+                20.5619562,
+                106.57723502,
+                20.5619562
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.20324972,
+                    20.03779037
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 7,
+                "f_code": "HC03",
+                "Ten_Cang": "Hải Thịnh",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.20324972,
+                20.03779037,
+                106.20324972,
+                20.03779037
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7352969,
+                    20.8742704
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 8,
+                "f_code": "HC03",
+                "Ten_Cang": "Đình Vũ",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.7352969,
+                20.8742704,
+                106.7352969,
+                20.8742704
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.71638579,
+                    20.88703653
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 9,
+                "f_code": "HC03",
+                "Ten_Cang": "Hải Phòng",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.71638579,
+                20.88703653,
+                106.71638579,
+                20.88703653
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.69350557,
+                    20.87729841
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 10,
+                "f_code": "HC03",
+                "Ten_Cang": "Cầu Bính",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.69350557,
+                20.87729841,
+                106.69350557,
+                20.87729841
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.91209877,
+                    20.96664061
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 11,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.91209877,
+                20.96664061,
+                106.91209877,
+                20.96664061
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.76609506,
+                    20.97521065
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 12,
+                "f_code": "HC04",
+                "Ten_Cang": "Phà Rừng",
+                "Loai": "Cảng Nội Thủy",
+                "description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.76609506,
+                20.97521065,
+                106.76609506,
+                20.97521065
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.76112875,
+                    20.96270008
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 13,
+                "f_code": "HC03",
+                "Ten_Cang": "Cái Lân",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.76112875,
+                20.96270008,
+                106.76112875,
+                20.96270008
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.34744798,
+                    20.91372955
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 14,
+                "f_code": "HC04",
+                "Ten_Cang": "Cống Câu",
+                "Loai": "Cảng Nội Thủy","description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.34744798,
+                20.91372955,
+                106.34744798,
+                20.91372955
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.97022299,
+                    21.44887487
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 15,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.97022299,
+                21.44887487,
+                107.97022299,
+                21.44887487
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.93918063,
+                    21.39270768
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 16,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.93918063,
+                21.39270768,
+                107.93918063,
+                21.39270768
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.03965004,
+                    20.98519533
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 17,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.03965004,
+                20.98519533,
+                107.03965004,
+                20.98519533
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.06588151,
+                    20.96094862
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 18,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.06588151,
+                20.96094862,
+                107.06588151,
+                20.96094862
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.13877654,
+                    20.94339239
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 19,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.13877654,
+                20.94339239,
+                107.13877654,
+                20.94339239
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.29642929,
+                    20.99264195
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 20,
+                "f_code": "HC03",
+                "Ten_Cang": "Cửa Ông",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.29642929,
+                20.99264195,
+                107.29642929,
+                20.99264195
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.38155477,
+                    21.04189235
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 21,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.38155477,
+                21.04189235,
+                107.38155477,
+                21.04189235
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.75930877,
+                    20.98952611
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 22,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.75930877,
+                20.98952611,
+                107.75930877,
+                20.98952611
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.96065657,
+                    21.24839768
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 23,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.96065657,
+                21.24839768,
+                107.96065657,
+                21.24839768
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.70396661,
+                    21.30524967
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 24,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.70396661,
+                21.30524967,
+                107.70396661,
+                21.30524967
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.59703484,
+                    9.99392646
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 25,
+                "f_code": "HC03",
+                "Ten_Cang": "Ba Tri",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.59703484,
+                9.99392646,
+                106.59703484,
+                9.99392646
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.36194231,
+                    10.00149248
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 26,
+                "f_code": "HC04",
+                "Ten_Cang": "Cổ Chiên",
+                "Loai": "Cảng Nội Thủy","description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.36194231,
+                10.00149248,
+                106.36194231,
+                10.00149248
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2516423,
+                    13.781728
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 27,
+                "f_code": "HC03",
+                "Ten_Cang": "Quy Nhơn",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.2516423,
+                13.781728,
+                109.2516423,
+                13.781728
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.32138241,
+                    13.09790801
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 28,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.32138241,
+                13.09790801,
+                109.32138241,
+                13.09790801
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.19722057,
+                    12.6036281
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 29,
+                "f_code": "HC03",
+                "Ten_Cang": "Vân Phong",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.19722057,
+                12.6036281,
+                109.19722057,
+                12.6036281
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.1996667,
+                    12.2275594
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 30,
+                "f_code": "HC03",
+                "Ten_Cang": "Nha Trang",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.1996667,
+                12.2275594,
+                109.1996667,
+                12.2275594
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.12783397,
+                    11.90438162
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 31,
+                "f_code": "HC03",
+                "Ten_Cang": "Cam Ranh",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.12783397,
+                11.90438162,
+                109.12783397,
+                11.90438162
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.02710919,
+                    11.54294211
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 32,
+                "f_code": "HC03",
+                "Ten_Cang": "Cà Ná",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.02710919,
+                11.54294211,
+                109.02710919,
+                11.54294211
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.89242429,
+                    11.3343428
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 33,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                108.89242429,
+                11.3343428,
+                108.89242429,
+                11.3343428
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.09073716,
+                    10.91986881
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 34,
+                "f_code": "HC03",
+                "Ten_Cang": "Phú Quý",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                108.09073716,
+                10.91986881,
+                108.09073716,
+                10.91986881
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.41888149,
+                    12.8496696
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 35,
+                "f_code": "HC03",
+                "Ten_Cang": "Vũng Rô",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                109.41888149,
+                12.8496696,
+                109.41888149,
+                12.8496696
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.02526886,
+                    10.60239866
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 36,
+                "f_code": "HC04",
+                "Ten_Cang": "Phú Mỹ",
+                "Loai": "Cảng Nội Thủy",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.02526886,
+                10.60239866,
+                107.02526886,
+                10.60239866
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.73186438,
+                    10.78126948
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 37,
+                "f_code": "HC04",
+                "Ten_Cang": "Sài Gòn",
+                "Loai": "Cảng Nội Thủy",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.73186438,
+                10.78126948,
+                106.73186438,
+                10.78126948
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.08084779,
+                    10.39148268
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 38,
+                "f_code": "HC03",
+                "Ten_Cang": "Ben Dinh",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.08084779,
+                10.39148268,
+                107.08084779,
+                10.39148268
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.10075165,
+                    10.43668901
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 39,
+                "f_code": "HC03",
+                "Ten_Cang": "Sao Mai",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.10075165,
+                10.43668901,
+                107.10075165,
+                10.43668901
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.86908518,
+                    10.41696293
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 40,
+                "f_code": "HC03",
+                "Ten_Cang": "Cai Mep",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.86908518,
+                10.41696293,
+                106.86908518,
+                10.41696293
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.20871694,
+                    9.54392268
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 41,
+                "f_code": "HC03",
+                "Ten_Cang": "Bai Gia",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.20871694,
+                9.54392268,
+                106.20871694,
+                9.54392268
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8250002,
+                    19.31677335
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 42,
+                "f_code": "HC03",
+                "Ten_Cang": "Nước Sâu",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.8250002,
+                19.31677335,
+                105.8250002,
+                19.31677335
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.70618251,
+                    18.85035296
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 43,
+                "f_code": "HC03",
+                "Ten_Cang": "Cửa Lò",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.70618251,
+                18.85035296,
+                105.70618251,
+                18.85035296
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7503063,
+                    18.77604551
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 44,
+                "f_code": "HC03",
+                "Ten_Cang": "Bến Thủy",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.7503063,
+                18.77604551,
+                105.7503063,
+                18.77604551
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.80034634,
+                    15.42082523
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 45,
+                "f_code": "HC03",
+                "Ten_Cang": null,
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                108.80034634,
+                15.42082523,
+                108.80034634,
+                15.42082523
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.6839741,
+                    15.48692109
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 46,
+                "f_code": "HC03",
+                "Ten_Cang": "Sa Ký",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                108.6839741,
+                15.48692109,
+                108.6839741,
+                15.48692109
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.21983516,
+                    16.13195217
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 47,
+                "f_code": "HC03",
+                "Ten_Cang": "Tiên Sa",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                108.21983516,
+                16.13195217,
+                108.21983516,
+                16.13195217
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.83173075,
+                    16.29079799
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 48,
+                "f_code": "HC03",
+                "Ten_Cang": "Chân Mây",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                107.83173075,
+                16.29079799,
+                107.83173075,
+                16.29079799
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.40630053,
+                    18.11827659
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 49,
+                "f_code": "HC03",
+                "Ten_Cang": "Vũng Áng",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                106.40630053,
+                18.11827659,
+                106.40630053,
+                18.11827659
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.04821179,
+                    10.18235908
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 50,
+                "f_code": "HC03",
+                "Ten_Cang": "Ham Ninh",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                104.04821179,
+                10.18235908,
+                104.04821179,
+                10.18235908
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.97794342,
+                    21.75871621
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 51,
+                "f_code": "HC04",
+                "Ten_Cang": "Hương Lý",
+                "Loai": "Cảng Nội Thủy",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                104.97794342,
+                21.75871621,
+                104.97794342,
+                21.75871621
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.01298825,
+                    10.01627364
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 52,
+                "f_code": "HC03",
+                "Ten_Cang": "An Thoi",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                104.01298825,
+                10.01627364,
+                104.01298825,
+                10.01627364
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.73458912,
+                    10.10618995
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 53,
+                "f_code": "HC04",
+                "Ten_Cang": "Cần Thơ",
+                "Loai": "Cảng Nội Thủy",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                105.73458912,
+                10.10618995,
+                105.73458912,
+                10.10618995
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "Cang.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.60504541,
+                    10.16783699
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 54,
+                "f_code": "HC03",
+                "Ten_Cang": "Hon Chong",
+                "Loai": "Cảng Biển",
+"description": "Cảng Bích Hạ được xem là cảng, bến sôi động, là địa điểm trung chuyển, giao lưu nông sản hàng hóa từ TP Hòa Bình lên các xã vùng hồ của Hòa Bình, Sơn La và ngược lại, cũng là địa điểm tiếp nhận khách tham quan du lịch lòng hồ sông Đà."
+            },
+            "bbox": [
+                104.60504541,
+                10.16783699,
+                104.60504541,
+                10.16783699
+            ]
+        }
+    ],
+    "totalFeatures": 54,
+    "numberMatched": 54,
+    "numberReturned": 54,
+    "timeStamp": "2023-06-06T03:16:46.061Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "bbox": [
+        104.01298523,
+        9.54392242,
+        109.41888428,
+        21.75871658
+    ]
+}

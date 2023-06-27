@@ -1,0 +1,37 @@
+<div mat-dialog-title>
+    <h2>{{data ? 'Cập nhật cảng cá' : 'Thêm cảng mới'}}</h2>
+</div>
+<form [formGroup]="addForm" (ngSubmit)="onFormSubmit()">
+    <div mat-dialog-content class="content">
+        <div class="row">
+            <mat-form-field appearance="outline">
+                <mat-label>Tên cảng</mat-label>
+                <input matInput type="text" formControlName="tenCang">
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Loại cảng</mat-label>
+                <!-- <input matInput type="select" formControlName="loai"> -->
+                <mat-select formControlName="loai">
+                    <!-- <mat-option></mat-option> -->
+                    <mat-option value="Cảng biển">Cảng biển</mat-option>
+                    <mat-option value="Cảng nội thủy">Cảng nội thủy</mat-option>
+                  </mat-select>
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Mô tả</mat-label>
+                <input matInput type="text" formControlName="description">
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Vị trí</mat-label>
+                <input matInput type="text" formControlName="diaChi" [value]="lngLat">
+                <!-- <app-mapbox></app-mapbox> -->
+                <div id="map"></div>
+            </mat-form-field>
+        </div>
+
+    </div>
+    <div mat-dialog-actions class="action">
+        <button mat-raised-button type="submit" color="primary">Lưu</button>
+        <button mat-raised-button type="button" [mat-dialog-close]="false">Cancel</button>
+    </div>
+</form>

@@ -1,0 +1,54 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4 mt-4">
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <div>
+                        <input type="file" class="text-nowrap text-truncate in" (change)="selectFile($event)">
+                        <button type="button" class="btn btn-outline-warning mt-2" [disabled]="!selectedFile"
+                            (click)="uploadFile()">Upload</button>
+                    </div>
+                    <div class="progress mt-2">
+                        <div class="progress-bar progress-bar-info" role="progressbar" attr.aria-valuenow="{{percent}}"
+                            aria-valuemin="0" aria-valuemax="100" [ngStyle]="{width: percent + '%'}">
+                            {{percent}}%
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8 mt-4">
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <div class="mb-3 mt-3">
+                        <h2 class="text-primary text-center">Danh sách file tải lên</h2>
+                    </div>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">File name</th>
+                                <th scope="col">File size</th>
+                                <th scope="col">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let file of listOfFile">
+                                <td>{{file.name}}</td>
+                                <td><img src="{{file.url}}" alt="{{file.name}}" class="image"></td>
+                                <td>{{file.size}}</td>
+                                <td>
+                                    <a href="{{file.url}}" type="button" class="btn btn-outline-info me-2" download>Download</a>
+                                    <a type="button" class="btn btn-outline-danger" (click)="deleteFile(file)">Delete</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,52 @@
+<div class="body">
+</div>
+<div class="container align-items-center">
+    <h2 class="text-center fs-3">Đăng ký</h2>
+    <form [formGroup]="registryForm" (ngSubmit)="registry()">
+        <div mat-dialog-content class="content">
+            <div class="row">
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-user me-2"></i>
+                        Tên đăng nhập
+                    </mat-label>
+                    <input matInput type="text" formControlName="username" required>
+                </mat-form-field>
+                
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-user me-2"></i>
+                        Email
+                    </mat-label>
+                    <input matInput type="email" formControlName="email" required>
+                </mat-form-field>
+
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-key me-2"></i>
+                        Mật khẩu</mat-label>
+                    <input matInput type="password" formControlName="password" required>
+                </mat-form-field>
+
+                <mat-form-field appearance="outline">
+                    <mat-label>
+                        <i class="fa-solid fa-key me-2"></i>
+                        Nhập lại mật khẩu</mat-label>
+                    <input matInput type="password" formControlName="password1" required>
+                </mat-form-field>
+            </div>
+    
+        </div>
+        <div mat-dialog-actions class="d-grid gap-2 submit">
+            <button type="submit" class="btn">Đăng ký</button>
+        </div>
+    </form>
+    <div class="forget text-center fs-6">
+        <p class="mb-3">Hoặc</p>
+        <button class="btn" routerLink="/login">Đăng nhập</button>
+    </div>
+</div> 
+               
+
+                <!-- <button mat-raised-button type="submit" color="primary">Đăng nhập</button>
+            <button mat-raised-button type="reset" [mat-dialog-close]="false">Reset</button> -->

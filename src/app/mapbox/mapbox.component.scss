@@ -1,0 +1,80 @@
+#map {
+    height: 100vh;
+    width: 100%;
+    margin-top: 10px;
+    border: 2px solid rgb(194, 194, 194);
+    border-radius: 5px;
+    position: absolute;
+}
+
+.maker-popup {
+    width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.link {
+    width: 100%;
+}
+
+// .marker {
+//     cursor: pointer;
+//   }
+
+#button {
+    position: absolute;
+    z-index: 2;
+    background-color: #fff;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, .1);
+    right: 1px;
+    top: 150px;
+    margin: 10px 10px 0 0;
+    border: none;
+    padding: 3px 3px;
+    border-radius: 5px;
+    // align-items: center;
+    // padding-top: 3px;
+    height: 30px;
+
+}
+
+// #id {
+//     // padding: 5px;
+// }
+
+#changeStyle {
+    position: absolute;
+    z-index: 2;
+    right: 43px;
+    top: 145px;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px 10px;
+    font-family: 'Open Sans', sans-serif;
+    display: none;
+}
+
+#instructions {
+    position: absolute;
+    z-index: 4;
+    margin: 10px 10px;
+    width: 25%;
+    /* top: 35px; */
+    padding: 20px;
+    background-color: #fff;
+    font-family: sans-serif;
+    border-radius: 5px;
+    display: none;
+    overflow-y: scroll;
+}
+
+ul, ol, ol li {
+    margin-left: 0;
+    padding: 0;
+    // text-decoration: none;
+    list-style: none;
+}
+
+#ds {
+    padding-left: 0;
+    list-style: inside decimal;
+}
